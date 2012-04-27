@@ -1,0 +1,109 @@
+[Root]
+Most Recent Package=Quiz System
+
+
+[Package|Quiz System|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\vb6\final project\Quiz System
+
+[Package|Quiz System|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Quiz System|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Quiz System|Files Found]
+Encrypted Questions.txt=D:\vb6\final project\final version\Encrypted Questions.txt
+
+[Package|Quiz System|Files Released]
+
+[Package|Quiz System|Missing Dependency Information]
+
+[Package|Quiz System|Out-of-Date Dependency Information]
+
+[Package|Quiz System|Files Added]
+d:\vb6\final project\final version\encrypted questions.txt=
+d:\vb6\final project\final version\encrypted users.txt=
+d:\vb6\final project\final version\time.txt=
+
+[Package|Quiz System|Files Removed]
+
+[Package|Quiz System|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\vb6\final project\final version\prjQuiz.exe=Yes
+D:\vb6\final project\final version\Encrypted Questions.txt=Yes
+D:\vb6\final project\final version\Encrypted users.txt=Yes
+D:\vb6\final project\final version\time.txt=Yes
+
+[Package|Quiz System|Configure Registry Files]
+Applicable=No
+
+[Package|Quiz System|Configure Remote Servers]
+Applicable=No
+
+[Package|Quiz System|Install Locations]
+D:\vb6\final project\prjQuiz.exe=$(ProgramFiles)\Quiz System
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\vb6\final project\Encrypted Questions.txt=$(ProgramFiles)\Quiz System
+D:\vb6\final project\Encrypted users.txt=$(ProgramFiles)\Quiz System
+D:\vb6\final project\time.txt=$(ProgramFiles)\Quiz System
+D:\vb6\final project\final version\prjQuiz.exe=$(ProgramFiles)\Quiz System
+D:\vb6\final project\final version\Encrypted Questions.txt=$(ProgramFiles)\Quiz System
+D:\vb6\final project\final version\Encrypted users.txt=$(ProgramFiles)\Quiz System
+D:\vb6\final project\final version\time.txt=$(ProgramFiles)\Quiz System
+
+[Package|Quiz System|Configure Shared Files]
+Applicable=Yes
+D:\vb6\final project\prjQuiz.exe=No
+D:\vb6\final project\Encrypted Questions.txt=Yes
+D:\vb6\final project\Encrypted users.txt=Yes
+D:\vb6\final project\time.txt=Yes
+D:\vb6\final project\final version\prjQuiz.exe=No
+D:\vb6\final project\final version\Encrypted Questions.txt=Yes
+D:\vb6\final project\final version\Encrypted users.txt=Yes
+D:\vb6\final project\final version\time.txt=Yes
+
+[Package|Quiz System|Distribution]
+Type=single
+Size=
+Title=Quiz System
+
+[Package|Quiz System|IconGroups]
+Group0=Quiz System
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Quiz System|Quiz System]
+Icon1=prjQuiz.exe
+Title1=Quiz System
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Quiz System|Package]
+PackageFolder=D:\vb6\final project\Quiz System
+ProjectFolder=D:\vb6\final project\final version
+ServerSideCab=
+File1=D:\vb6\final project\Quiz System\setup.exe
+File2=D:\vb6\final project\Quiz System\Setup.Lst
+File3=D:\vb6\final project\Quiz System\prjQuiz.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

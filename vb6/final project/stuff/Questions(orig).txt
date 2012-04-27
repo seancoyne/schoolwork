@@ -1,0 +1,91 @@
+1)	The Undo button in Word reverses the last command or action but the drop down list allows the user to reverse multiple commands or actions.	Ans: T
+2)	Word makes no distinction between uppercase and lowercase in file names.	Ans: F
+3)	All Word documents have the .wps extension automatically appended to file names.	Ans: F
+4)	Formatting marks are revealed when the Show/Hide button is clicked and are used to control the appearance of a document.	Ans: T
+5)	The selection bar, located at the left of the Word window, makes it easier to select large blocks of text quickly.	Ans: T
+6)	Word, like all office documents, makes extensive use of the mouse and keyboard directional keys are never used any more.	Ans: F
+7)	A major enhancement over typewriters is word wrap and using this feature means that the [Enter] key is never pressed when typing.	Ans: F
+8)	When a new document is started in Word, the Normal template is always in effect.	Ans: T
+9)	The status bar at the top of the window always indicates were the text begins in relation to predefined defaults.	Ans: F
+10)	Text may be formatted by choosing from multiple character effects but only one character effect may be applied at a time from the toolbar.	Ans: F
+11)	The automatic grammar-checking feature advises you of misspelled words as you create and edit the document.	Ans: F
+12)	A font, commonly referred to as a typeface, is a set of characters with a specific design.	Ans: T
+13)	Character effects include bold, underline, strikethrough, and italic.	Ans: T
+14)	There are five types of paragraph alignment: left, center, right, force, and justified.	Ans: F
+15)	The ruler, displayed below the toolbars, shows line length in inches.	Ans: T
+16)	The insertion point is a solid horizontal line that moves to the right as text is entered.	Ans: F
+17)	The numbers following the indicators in the status bar show the exact location of the insertion point in the document.	Ans: T
+18)	The Office Assistant suggests help topics while you are working.	Ans: T
+19)	The menu bar below the title bar displays the seven menus associated with the Word program.	Ans: F
+20)	The toolbars found below the Word program menu are the Standard toolbar, the Draw toolbar, and the Formatting toolbar.	Ans: F
+21)	When the ruler is displayed below the Formatting toolbar, it is used to set margins, tab stops, and indents.	Ans: T
+22)	When a topic is typed in the text box of the Office Assistant, it will display a list of related topics.	Ans: T
+23)	The steps involved in the development of a document include planning, typing, editing, formatting, previewing, and printing.	Ans: T
+24)	The planning step in document development includes understanding the purpose of the document.	Ans: T
+25)	A template is a file that includes predefined settings that can be used as a pattern to create common types of documents.	Ans: T
+26)	The feature that makes assumptions about the text being typed is AutoText.	Ans: T
+27)	The Spelling Checker and Grammar Checker identify misspelled words and incorrect grammar while a document is created or edited.	Ans: T
+28)	The feature that automatically decides where to end a line and begin the next line is referred to as "word wrap."	Ans: T
+29)	Choosing Close from the File menu closes a document without saving or providing an opportunity to save.	Ans: F
+30)	Word file names can contain up to 245 characters plus any three-character extension separated by a period.	Ans: F
+31)	To open an existing file, select Open from the File menu, click the Open button from the Standard toolbar, or press the [Ctrl] + O keys.	Ans: T
+32)	Clicking above or below the scroll box in the vertical scroll bar moves page by page through the document.	Ans: F
+33)	The Previous Page and Next Page Navigator buttons are located on the left side of the status bar.	Ans: F
+34)	The Select Browse Object button is used to change how the up and down vertical scroll arrow buttons work.	Ans: T
+35)	Dragging the scroll box to the top or bottom of the scroll bar is a quick way to view the beginning or end of the document.	Ans: T
+36)	When in the Insert mode, new characters are inserted into existing text by moving the existing text to the right of the insertion point.	Ans: T
+37)	Overtype mode is used to type over existing text, replacing text as new characters are entered.	Ans: T
+38)	The [Ctrl] + [Backspace] key combination deletes the word to the right of the insertion point.	Ans: F
+39)	The Show/Hide button on the Standard toolbar is used to display or hide non-printing special characters.	Ans: T
+40)	All text in a document can be selected by triple-clicking in the selection bar, choosing Select All from the Edit menu, or pressing [Ctrl] while clicking in the selection bar.	Ans: T
+41)	An embedded object becomes part of the Word document and can be opened and edited using the program in which it was created.	Ans: T
+42)	The File Properties dialog box is used to document formatting, styles, and templates that were used to create a document.	Ans: F
+43)	The [Tab] key is used to move from text box to text box in any dialog box.	Ans: T
+44)	The Print Preview feature displays each page of a document in a reduced size so you can view the layout before printing, however, any further editing or formatting must be done from the Normal view.	Ans: F
+45)	In the Print dialog box, you can choose to print the entire document, selected pages, or selected text only. 	Ans: T
+46)	A document can be printed by clicking the Print button on the Standard toolbar, pressing [Ctrl] + P, or choosing Print from the File menu.	Ans: T
+47)	You have made several changes to a file that was stored on disk. You want to keep the original file in its original condition and store the modified file with a new name. The Save As command will allow you to accomplish this.	Ans: T
+48)	A graphic is a non-text element or object used to help the reader understand concepts, to add interest, and to make the document stand out from others.	Ans: T
+49)	Sizing handles that surround a graphic image are used to move the image from page to page.	Ans: F
+50)	The Picture toolbar is used only with scanned images because the features do not apply to other types of images.	Ans: F
+51)	Which of the following is NOT a paragraph alignment available in Word?	a)	Center	b)	Right	c)	Force	d)	Justify	Ans: C
+52)	The view used to move, copy, and reorganize text in a document is:	a)	Normal	b)	Outline	c)	Print Layout	d)	Web Layout	Ans: B
+53)	The document development steps include all of the following EXCEPT:	a)	plan	b)	enter	c)	edit	d)	enhance	Ans: D
+54)	Correctly spelled words that are identified as misspelled can be added to the _____ dictionary.	a)	main	b)	custom	c)	standard	d)	personal	Ans: B
+55)	The Spelling and Grammar status icon displays a _____ as long as the document is clear of errors.	a)	black X	b)	black checkmark	c)	red X	d)	red checkmark	Ans: D
+56)	Which feature quickly inserts commonly used phrases into a documen?:	a)	AutoComplete	b)	AutoCorrect	c)	AutoText	d)	AutoInsert	Ans: C
+57)	In both the Open and Save dialog boxes, the _____ bar is used to access recently used files.	a)	Places	b)	History	c)	Look in	d)	Type	Ans: A
+58)	Which of the following is NOT used to select standard blocks of text?	a)	[Shift] + Click	b)	[Ctrl] + [Delete]	c)	[Ctrl] + Click	d)	Double-click	Ans: B
+59)	All of the following are used to undo editing changes EXCEPT:	a)	click  	b)	select Edit/Undo	c)	press [Ctrl] + Z	d)	click  	Ans: A
+60)	Which of the following is NOT used to left align text?	a)	Click 	b)	Format/Paragraph/Indents/Alignment/Left	c)	[Ctrl] + L	d)	[Tab] + L	Ans: D
+61)	The ________ displays margin and tab settings.	a)	status bar	b) 	ruler	c)	Formatting toolbar	d) 	Format menu	Ans: B
+62)	The mouse pointer is an I-beam when it is pointing to the:	a)	menu bar	b) 	toolbar	c)	ruler	d) 	text area	Ans: D
+63)	There are _____ toolbars available for use in Microsoft Word 2000.	a)	10	b)	16	c)	13	d)	19	Ans: C
+64)	To move the insertion point to the left one word press ______.	a)	[Alt] + left arrow	b)	[Alt] + right arrow	c)	[Ctrl] + left arrow	d)	[Ctrl] + right arrow	Ans: C
+65)	The first step in the development of a document is to:	a)	plan the document	b) 	enter a rough draft	c)	set the margins and tabs	d) 	enter a title	Ans: A
+66)	Removing a sentence from a paragraph is an example of ________, and italicizing a book title is an example of ________.	a)	proofing; designing	b) 	formatting; editing	c)	editing; formatting	d) 	censoring; styling	Ans: C
+67)	Initial settings that apply to all the documents you create are stored:	a)	in the Format menu	b) 	on the status bar	c)	on your data disk	d) 	in the document template	Ans: D
+68)	You can look at the ______ to find the page length of a document.	a)	vertical ruler	b) 	title bar	c)	status bar	d) 	Formatting toolbar	Ans: C
+69)	The At 1.6" indicator located in the status bar tells you that the insertion point is 1.6" from the:	a)	left margin	b) 	top edge of the page	c)	top margin	d) 	left edge of the page	Ans: B
+70)	Which of the following indicates the insertion point position on a line?	a)	Ln	b) 	At	c)	Col	d) 	Sec	Ans: C
+71)	Press _____ to move the insertion point to the end of a line, and press _____ to move the insertion point to the beginning of a line.	a)	[Home]; [End]	b)	[End]; [Home]	c)	[Ctrl]; [End]	d)	[Ctrl]; [Home]	Ans: B
+72)	wHAT IS THE NAME OF THE FEATURE THAT WILL PREVENT TEXT SUCH AS THIS FROM BEING ENTERED INTO A DOCUMENT?	a)	AutoType	b) 	AutoText	c)	AutoCorrect	d) 	AutoFormat	Ans: C
+73)	To change the word "foreward" to "forward" you would:	a)	move to the left of the letter "e" and press [Backspace]	b)	move to the right of the letter "e" and press [Backspace]	c)	move to the left of the letter "e" and press the [Spacebar]	d)	move to the right of the letter "e" and press [Delete]	Ans: B
+74)	Which of the following is an inappropriate place to press the [Enter] key?	a)	At the end of each line in a paragraph	b)	At the end of a paragraph	c)	After you type the word "Sincerely," in the closing of a letter	d)	After you type the salutation in a letter	Ans: A
+75)	Which of the following features allows text on a line to adjust when text is added or removed or the margins are changed?	a)	AutoFormat	b) 	Overtype	c)	AutoText	d) 	Word Wrap	Ans: D
+76)	Pressing [Home] and [End] move the insertion point to the beginning and end of the current:	a)	word	b) 	paragraph	c)	line	d) 	document	Ans: C
+77)	The last four files used will be displayed in the:	a)	File menu	b) 	Edit menu	c)	View menu	d) 	Open dialog box	Ans: A
+78)	By default, the Open dialog box will list:	a)	all files	b)	Word documents and text files	c)	all word-processing documents regardless of the extension	d)	Word documents only	Ans: D
+79)	You have just pressed [Ctrl] + [End]. The insertion point is located at the end of the:	a)	document	b) 	sentence	c)	paragraph	d) 	line	Ans: A
+80)	Pressing the _____ keys deletes a word to the left of the insertion point.	a)	[Alt] + [Delete]	b)	[Alt] + [Backspace]	c)	[Ctrl] + [Delete]	d)	[Ctrl] + [Backspace]	Ans: D
+81)	The insertion point is located to the left of the "q" in the word kumquat. What will be left if you press [Ctrl] + [Delete]?	a)	kumquat	b) 	quat	c)	kum	d) 	Nothing. The entire word will be removed.	Ans: C
+82)	When you press the spacebar, Word inserts a ____________ as a hidden space character.	a)	number sign (#)	b) 	dot (.)	c)	hyphen (-)	d) 	caret (^)	Ans: B
+83)	Holding [Ctrl] as you click a word selects:	a)	the sentence	b) 	the line	c)	the word	d) 	the paragraph	Ans: A
+84)	You just deleted a word you did not intend to delete.  Which of the following will bring it back?	a)	[Ctrl] + [Delete]	b) 	[Ctrl] + [Backspace]	c)	[Ctrl] + Z	d) 	[Esc]	Ans: C
+85)	The insertion point is located on page 1 of a 25-page document. If you drag the vertical scroll box half way down the scroll bar, the insertion point will be located on page _____.	a)	12	b)	1	c)	15	c)	25	Ans: A
+86)	After saving a file, the file name is displayed in the:	a)	Title bar	b)	Status bar	c)	Menu bar	d)	Start bar	Ans: A
+87)	To select one complete line of text, _____ in the selection bar located to the left of the screen.	a)	click	b)	double-click	c)	triple-click	d)	press [Ctrl] and click	Ans: B
+88)	Writing tools in Word include all of the following EXCEPT:	a)	AutoCorrect	b)	Spelling	c)	Grammar	d)	AutoType	Ans: D
+89)	Which of the following is NOT used to open a file in Word?	a)	Press [Ctrl] + O	b)	Double-click the File icon	c)	Click the Open button on the toolbar	d)	Choose Open from the File menu	Ans: B
+90)	Which of the following is NOT used to move through a document?	a)	Press [Ctrl] + right arrow	b)	Press [Home]	c)	Press [Home], [Home] + [End]	d)	Select Go To from the Edit menu	Ans: C
+

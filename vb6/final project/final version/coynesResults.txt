@@ -1,0 +1,43 @@
+Word, like all office documents, makes extensive use of the mouse and keyboard directional keys are never used any more. 
+F
+T
+Incorrect
+The At 1.6 indicator located in the status bar tells you that the insertion point is 1.6 from the:  a) left margin b)  top edge of the page c) top margin d)  left edge of the page 
+B
+B
+Correct
+A template is a file that includes predefined settings that can be used as a pattern to create common types of documents. 
+T
+F
+Incorrect
+The Previous Page and Next Page Navigator buttons are located on the left side of the status bar. 
+F
+T
+Incorrect
+The insertion point is located to the left of the q in the word kumquat. What will be left if you press [Ctrl] + [Delete]?  a) kumquat b)  quat c) kum d)  Nothing. The entire word will be removed. 
+C
+C
+Correct
+Which of the following features allows text on a line to adjust when text is added or removed or the margins are changed?  a) AutoFormat b)  Overtype c) AutoText d)  Word Wrap 
+D
+A
+Incorrect
+The Spelling and Grammar status icon displays a _____ as long as the document is clear of errors.  a) black X b) black checkmark c) red X d) red checkmark 
+D
+B
+Incorrect
+To select one complete line of text, _____ in the selection bar located to the left of the screen.  a) click b) double-click c) triple-click d) press [Ctrl] and click 
+B
+C
+Incorrect
+The view used to move, copy, and reorganize text in a document is:  a) Normal b) Outline c)  Print Layout d) Web Layout 
+B
+B
+Correct
+Which feature quickly inserts commonly used phrases into a document?:  a) AutoComplete b) AutoCorrect c) AutoText d) AutoInsert 
+C
+A
+Incorrect
+5/11/02 3:48:07 PM 
+ 3 
+ 30 
