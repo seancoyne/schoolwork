@@ -1,0 +1,90 @@
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 1
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Input Operand 2 in Hexadecimal (ex 0xABC): 0x3333
+Operand 1: F0F0
+Operand 2: 3333
+Solution is: 3030
+Press any key to continue . . .
+
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 2
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Input Operand 2 in Hexadecimal (ex 0xABC): 0x3333
+Operand 1: F0F0
+Operand 2: 3333
+Solution is: F3F3
+Press any key to continue . . .
+
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 3
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Input Operand 2 in Hexadecimal (ex 0xABC): 0x3333
+Operand 1: F0F0
+Operand 2: 3333
+Solution is: C3C3
+Press any key to continue . . .
+
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 4
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Input Operand 2 in Decimal: 2
+Operand 1: F0F0
+Operand 2: 2
+Solution is: 3C3C
+Press any key to continue . . .
+
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 5
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Input Operand 2 in Decimal: 2
+Operand 1: F0F0
+Operand 2: 2
+Solution is: C3C0
+Press any key to continue . . .
+
+Choose Bitwise operator
+1. AND &
+2. OR |
+3. XOR ^
+4. Right Shift >>
+5. Left Shift <<
+6. Complement ~
+Enter number 1-6: 6
+Input Operand 1 in Hexadecimal (ex 0xABC): 0xF0F0
+Operand 1: F0F0
+Solution is: F0F
+Press any key to continue . . .
+
+
+
