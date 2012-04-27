@@ -1,0 +1,27 @@
+Number of Soft Drinks: 10
+Name, Percent Growth: Coca-Cola Classic, 20.8
+Name, Percent Growth: Caffeine Free Diet Coke, -9.0
+Name, Percent Growth: Caffeine Free Diet Pepsi, -7.6
+Name, Percent Growth: Diet Coke, 9.6
+Name, Percent Growth: Diet Pepsi, 1.3
+Name, Percent Growth: Dr. Pepper, 39.3
+Name, Percent Growth: Mountain Dew, 65.3
+Name, Percent Growth: Pepsi-Cola, 8.6
+Name, Percent Growth: 7 Up, 5.7
+Name, Percent Growth: Sprite, 72.8
+Losers:
+Caffeine Free Diet Coke           -9
+Caffeine Free Diet Pepsi          -7.6
+
+Gainers:
+Diet Pepsi                         1.3
+7 Up                               5.7
+Pepsi-Cola                         8.6
+Diet Coke                          9.6
+Coca-Cola Classic                  20.8
+Dr. Pepper                         39.3
+Mountain Dew                       65.3
+Sprite                             72.8
+
+
+

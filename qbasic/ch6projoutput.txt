@@ -1,0 +1,16 @@
+Enter balance at beginning of month: 1234.50
+Enter a transaction (C, D, Q): S
+Invalid Response.
+Enter C, D, or Q for Check, Deposit, or Quit.
+Enter a transaction (C, D, Q): C
+Enter an Amount: 35.00
+Enter a transaction (C, D, Q): D
+Enter an Amount: 45.00
+Enter a transaction (C, D, Q): C
+Enter an Amount: 1000.00
+Enter a transaction (C, D, Q): q
+Beginning Balance:         1234.50
+Total amount of checks:    1035.00
+Total amout of deposits:     45.00
+Service Charge:               0.50
+Closing Balance:            244.00

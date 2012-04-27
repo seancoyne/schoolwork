@@ -1,0 +1,7 @@
+Enter a day from 1 through 12: 3
+The Gifts for day three are:
+ 1            partridge in a pear tree
+ 2            turtle doves
+ 3            French Hens
+Cost:        $92.50
+Total Cost for the twelve days:       $71613.50
