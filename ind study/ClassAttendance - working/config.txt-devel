@@ -1,0 +1,15 @@
+Library Classroom Lab
+'this is a comment
+'each comment must begin with a single quote
+'config file syntax
+'computer name or #
+'# indicates there is no computer in that location
+'configuration is a 5x6 grid
+'do not edit above this line
+'the right is the white board
+#, #, #, #, #
+#, #, #, #, #
+#, #, #, #, #
+#, #, #, #, #
+#, #, Nickel4242, #, #
+#, #, #, #, #

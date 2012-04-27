@@ -1,0 +1,106 @@
+[Root]
+Most Recent Package=ClassAttendance
+
+
+[Package|ClassAttendance|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\Package
+
+[Package|ClassAttendance|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ClassAttendance|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ClassAttendance|Files Found]
+
+[Package|ClassAttendance|Files Released]
+
+[Package|ClassAttendance|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+
+[Package|ClassAttendance|Out-of-Date Dependency Information]
+
+[Package|ClassAttendance|Files Added]
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\classlist.txt=
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\config.txt=
+
+[Package|ClassAttendance|Files Removed]
+
+[Package|ClassAttendance|Files In Project]
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\ClassAttendance.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\classlist.txt=Yes
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\config.txt=Yes
+
+[Package|ClassAttendance|Configure Registry Files]
+Applicable=No
+
+[Package|ClassAttendance|Configure Remote Servers]
+Applicable=No
+
+[Package|ClassAttendance|Install Locations]
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\ClassAttendance.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\classlist.txt=$(AppPath)
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\config.txt=$(AppPath)
+
+[Package|ClassAttendance|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\ClassAttendance.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\classlist.txt=No
+C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\config.txt=No
+
+[Package|ClassAttendance|Distribution]
+Type=single
+Size=
+Title=Class Attendance - Client
+
+[Package|ClassAttendance|Package]
+PackageFolder=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\Package
+ProjectFolder=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance
+ServerSideCab=
+File1=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\Package\setup.exe
+File2=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\Package\Setup.Lst
+File3=C:\Documents and Settings\CoyneS\Desktop\ind study\ClassAttendance\Package\ClassAttendance.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|ClassAttendance|IconGroups]
+Group0=Class Attendance
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|ClassAttendance|Class Attendance]
+Icon1=ClassAttendance.exe
+Title1=Class Attendance
+StartIn1=$(AppPath)
+Key1=Icon1

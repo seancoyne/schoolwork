@@ -1,0 +1,23 @@
+Library Classroom Lab
+'THE TOP LINE OF THIS FILE WILL BE THE HEADING OF THE CLIENT APPLICATION
+'
+'SYNTAX:
+'this is a comment
+'each comment must begin with a single quote
+'do not have a line without data or a single quote
+'
+'CONFIG FILE SYNTAX:
+'use computer name or #
+'# indicates there is no computer in that location
+'configuration must be a 5x6 grid or it will not display correctly
+'do not display comments within the configuration array
+'
+'EDIT BELOW TO ADJUST CONFIGURATION:
+'the right is the white board
+LibClass21, LibClass22, LibClass23, LibClass24, LibClass25
+LibClass20, LibClass19, LibClass18, LibClass17, LibClass16
+LibClass12, LibClass13, #,          LibClass14, LibLabInstruct
+#, 	    LibClass11, #,          LibClass10, #
+LibClass06, LibClass07, Nickel4242, LibClass08, LibClass09
+LibClass05, LibClass04, LibClass03, LibClass02, LibClass01
+'END OF CONFIG.TXT
