@@ -1,0 +1,99 @@
+[Root]
+Most Recent Package=MultiQuizEXE Setup Package
+Most Recent Deploy=MultiQuizEXE Folder Deployment
+
+
+[Package|MultiQuizEXE Setup Package|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\vb6\project 7 - multiplication quiz\Package
+
+[Package|MultiQuizEXE Setup Package|Configure DAO ISAMs]
+Applicable=No
+
+[Package|MultiQuizEXE Setup Package|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|MultiQuizEXE Setup Package|Files Found]
+
+[Package|MultiQuizEXE Setup Package|Files Released]
+
+[Package|MultiQuizEXE Setup Package|Missing Dependency Information]
+D:\vb6\project 7 - multiplication quiz\stwatchOCX\StWatch.ocx=
+
+[Package|MultiQuizEXE Setup Package|Out-of-Date Dependency Information]
+
+[Package|MultiQuizEXE Setup Package|Files Added]
+
+[Package|MultiQuizEXE Setup Package|Files Removed]
+
+[Package|MultiQuizEXE Setup Package|Files In Project]
+D:\vb6\project 7 - multiplication quiz\MultQuiz.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+D:\vb6\project 7 - multiplication quiz\stwatchOCX\StWatch.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|MultiQuizEXE Setup Package|Configure Registry Files]
+Applicable=No
+
+[Package|MultiQuizEXE Setup Package|Configure Remote Servers]
+Applicable=No
+
+[Package|MultiQuizEXE Setup Package|Install Locations]
+D:\vb6\project 7 - multiplication quiz\MultQuiz.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\vb6\project 7 - multiplication quiz\stwatchOCX\StWatch.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|MultiQuizEXE Setup Package|Configure Shared Files]
+Applicable=Yes
+D:\vb6\project 7 - multiplication quiz\MultQuiz.exe=No
+
+[Package|MultiQuizEXE Setup Package|Distribution]
+Type=multi
+Size=1.44 MB
+Title=MultQuizEXE
+
+[Package|MultiQuizEXE Setup Package|IconGroups]
+Group0=MultQuizEXE
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|MultiQuizEXE Setup Package|MultQuizEXE]
+Icon1=MultQuiz.EXE
+Title1=MultQuizEXE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|MultiQuizEXE Setup Package|Package]
+PackageFolder=D:\vb6\project 7 - multiplication quiz\Package
+ProjectFolder=D:\vb6\project 7 - multiplication quiz
+ServerSideCab=
+File1=D:\vb6\project 7 - multiplication quiz\Package\setup.exe
+File2=D:\vb6\project 7 - multiplication quiz\Package\Setup.Lst
+File3=D:\vb6\project 7 - multiplication quiz\Package\MultQu1.CAB
+File4=D:\vb6\project 7 - multiplication quiz\Package\MultQu2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+[Deploy|MultiQuizEXE Folder Deployment|Root]
+Package=MultiQuizEXE Setup Package
+Handler=PDWizard.FolderDplySubWiz
+Folder=D:\vb6\project 7 - multiplication quiz\deployed
